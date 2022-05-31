@@ -11,7 +11,7 @@ An ever-changing repository containing project management learning resources.
 | [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) <br> Start your path to a career in project management. In this program, you’ll learn in-demand skills that will have you job-ready in less than six months. No degree or experience is required. | |
 | :--------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Course**                                                                                                             | **Status** |
-|  [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations)                    |     ❌     |
+|  [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations)                    |     🚧     |
 |  [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google)         |     ❌     |
 |  [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google)                   |     ❌     |
 |  [Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google)                     |     ❌     |
